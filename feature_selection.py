@@ -57,7 +57,7 @@ def find_correlated_attributes(df):
     # correlated attributes
     print("Correlated attributes: " + str(correlated_attributes))
 
-    # number of attributes to be eliminated
+    # number of attributes to be eliminated by filter method
     print("Number of attributes to be removed by correlation filter method: " + str(len(correlated_attributes)))
     return correlated_attributes
 
