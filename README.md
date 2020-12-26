@@ -1,5 +1,5 @@
 # Comparision-of-Classification-Models-for-Bank-Marketing
-In this project, we aim to discover whether a given
+In this project, my aim was to discover whether a given
 client would subscribe to the bank deposit or not, using
 different classification models. For that, we will make use
 of popular Data-Mining techniques to prepare our desired
