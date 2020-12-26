@@ -14,3 +14,5 @@ The results of these classifiers will help the bank in the
 future making any decision about their target audience
 which in a way increase the overall campaign efficiency
 by using direct marketing.
+
+After applying the preprocessing and tuning the hyperparameters, we observed that Random Forest gives us the best F1-score of 0.89 when the dataset was balanced using SMOTE and normalized by MinMaxScaler.
